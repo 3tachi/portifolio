@@ -1,5 +1,5 @@
 body{
-    background-color: #FFFAFA;
+    background-color: #0b0a0a;
     margin-right: 0px;
     padding: 0px;
     font-family:Verdana;
@@ -86,7 +86,7 @@ nav ul li a {
     right: 300px;
     width: 300px;
     position:absolute;
-    bottom: 490px;
+    bottom: 350px;
     left: 15%;
     transform: translate(-70%);
     border-radius: 100%;
@@ -95,39 +95,8 @@ nav ul li a {
 .about-content{
     width: 80%;
     height: 330px;
-    background-color: #fffff;
-    border - radius: 20px;
-    box shadow:;
+    background-color: #161414;
+    border-radius: 14px;
+    
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
